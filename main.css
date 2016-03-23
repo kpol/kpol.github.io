@@ -1,7 +1,7 @@
 body {
   background-color: #FFFFFF;
   color: #263248;
-  padding: 20px;
+  padding: 15px;
   font-family: 'Open Sans', sans-serif;
 }
 a {
@@ -18,12 +18,15 @@ a:focus, a:hover {
   border-radius: 125px;
 }
 .description {
-  margin-top: 20px;
+  margin-top: 15px;
 }
 .list-inline, li {
   margin: 0;
   padding: 0;
   display: inline;
+}
+p{
+  margin: 5px;
 }
 .text-center {
   text-align: center;
