@@ -26,6 +26,7 @@ a:focus, a:hover {
   display: inline;
 }
 p{
+p {
   margin: 5px;
 }
 .text-center {
