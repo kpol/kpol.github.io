@@ -20,7 +20,7 @@ a:focus, a:hover {
 .description {
   margin-top: 15px;
 }
-.list-inline li {
+.list-inline, .list-inline li {
   margin: 0;
   padding: 0;
   display: inline;
