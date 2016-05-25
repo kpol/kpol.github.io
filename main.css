@@ -20,10 +20,14 @@ a:focus, a:hover {
 .description {
   margin-top: 15px;
 }
-.list-inline, li {
+.list-inline li {
   margin: 0;
   padding: 0;
   display: inline;
+}
+.list-inline > li {
+  margin-left: 5px;
+  margin-right: 5px;
 }
 p {
   margin: 5px;
@@ -44,10 +48,6 @@ p {
   -ms-animation: fadein 3s;
   -o-animation: fadein 3s;
   animation: fadein 3s;
-}
-.fa {
-  margin-left: 5px;
-  margin-right: 5px;
 }
 footer {
   margin-top: 20px;
