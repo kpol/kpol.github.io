@@ -23,11 +23,12 @@ a:focus, a:hover {
 .list-inline, .list-inline li {
   margin: 0;
   padding: 0;
-  display: inline;
+  display: inline-block;
 }
 .list-inline > li {
   margin-left: 5px;
   margin-right: 5px;
+  margin-top: 10px;
 }
 p {
   margin: 5px;
