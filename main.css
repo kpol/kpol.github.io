@@ -26,8 +26,8 @@ a:focus, a:hover {
   display: inline-block;
 }
 .list-inline > li {
-  margin-left: 5px;
-  margin-right: 5px;
+  margin-left: 2px;
+  margin-right: 2px;
   margin-top: 10px;
 }
 p {
