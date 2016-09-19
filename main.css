@@ -13,8 +13,8 @@ a:focus, a:hover {
   text-decoration: underline;
 }
 .profile img {
-  max-width: 200px;
-  max-height: 200px;
+  max-width: 180px;
+  max-height: 180px;
   border-radius: 125px;
 }
 .description {
